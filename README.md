@@ -29,7 +29,7 @@ Per poter modificare e testare i sorgenti occorre installare sul proprio sistema
 
 - [Python3](https://www.python.org/downloads/windows/) Consiglio di installare Python spuntando l'opzione "Add Python to PATH"
 - [Git](https://gitforwindows.org/)
-- [IntelliJ IDEA]([https://code.visualstudio.com/download](https://www.jetbrains.com/idea/download/?section=windows))
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows)
 
 Dal menù "Start" selezionare "Git Bash" per aprire il prompt bash emulato.
 
