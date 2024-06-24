@@ -6,7 +6,7 @@ Visualizza il calendario e i risultati delle partite in tempo reale.
 
 ## Descrizione
 
-L'applicazione si appoggia alle API Free https://www.thesportsdb.com e tramite una guida interattiva guida l'utente nella consultazione dei risultati delle partite.
+L'applicazione si appoggia alle API Free [www.thesportsdb.com](https://www.thesportsdb.com/free_sports_api) e tramite una guida interattiva guida l'utente nella consultazione dei risultati delle partite.
 
 ## Getting started
 
